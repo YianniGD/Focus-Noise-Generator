@@ -1,6 +1,7 @@
 const CACHE_NAME = 'focus-labs-v1';
 const ASSETS = [
-  'Focus.html',
+'./',
+  'index.html',
   'manifest.json',
   'sw.js'
 ];

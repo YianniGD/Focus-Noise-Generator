@@ -1,7 +1,7 @@
 {
   "name": "Focus Labs Hub",
   "short_name": "FocusLabs",
-  "start_url": "./Focus.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#202124",
   "theme_color": "#8ab4f8",

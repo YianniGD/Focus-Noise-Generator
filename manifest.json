@@ -1,0 +1,15 @@
+{
+  "name": "Focus Labs Hub",
+  "short_name": "FocusLabs",
+  "start_url": "./Focus.html",
+  "display": "standalone",
+  "background_color": "#202124",
+  "theme_color": "#8ab4f8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2596/2596850.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
